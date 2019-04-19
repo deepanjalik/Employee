@@ -2,6 +2,7 @@ def main():
     try:
         db= lit.connect("department.db")
         print("Department database is created successfully")
+        print("Department db")
 
 
 
